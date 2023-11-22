@@ -32,6 +32,7 @@ public static void main(String[] args) {
             
             String res = number_1 + " " +action + " "  +  number_2 + " = " + result;
             System.out.println(res);
+            
 
     }
 }
